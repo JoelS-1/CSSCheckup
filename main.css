@@ -1,0 +1,60 @@
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+    border-style: dotted;
+}
+
+body{
+    background-color: gray;
+}
+
+.background-happy-cat{
+    background-image:url(./Assets/Happy-Cat.jpg);
+    margin: 10px;
+    width: 592px;
+    height: 592px;
+}
+
+.bigger-text{
+    font-size: 200%;
+}
+
+#red-text{
+    font-size: 250%;
+    color: red;
+}
+
+#font-family{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250%;
+}
+
+.background-angry-cat{
+    background-image:url(./Assets/angry-cat.jpg);
+    margin: 10px;
+    width: 450px;
+    height: 225px;
+}
+
+.background-cute-cat{
+    background-image:url(./Assets/cute-cat.jpg);
+    margin: 10px;
+    width: 1280px;
+    height: 720px;
+}
+
+#white-text{
+    color: white;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    background-color: gray;
+    border: 10px solid black;
+}
